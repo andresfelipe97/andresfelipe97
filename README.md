@@ -12,11 +12,21 @@ I am a Fron Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 :telescope: Looking for a job, I have knowledge of JavaScript, React Tailwind, HTML, CSS and Node.js.
 
-:seedling: I study to be a Full Stack Developer with JavaScript </a>
+📚 I study to be a Full Stack Developer with JavaScript </a>
 
-:zap: In my free time, I run, I go to the gym and at night I play FIFA 24 and call of duty
+🌱 I’m currently learning Alura Latam and Platzi 
 
-:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AndresDev-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andres-fandiño)
+💬 Ask me about ReacT and JavaScript
+
+👨‍💻 All of my projects are available at https://github.com/andresfelipe97
+
+📫 How to reach me andresfelipefm97@gmail.com
+
+✈️ How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AndresDev-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andres-fandiño)
+
+⚡ Fun fact: I am a person dedicated to my work as well as to my study.
+
+⌛ In my free time, I run, I go to the gym and at night I play FIFA 24 and call of duty
 
 ---
 
