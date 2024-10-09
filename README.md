@@ -3,7 +3,7 @@
 <div id="header" align="center">
  
 <h1 align="center">HI 👋, Soy ANDRES FELIPE FANDIÑO</h1>
-<h3 align="center">Desarrollador frontend de Colombia</h3>
+<h3 align="center"></h3>
 
 
 ---
