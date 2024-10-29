@@ -1,4 +1,4 @@
-<img src="https://github.com/andresfelipe97/andresfelipe97/assets/102334433/53b04c80-a049-4ca7-97c0-d509e0297697" title="banner" alt="banner">
+
 
 <div id="header" align="center">
  
@@ -8,15 +8,12 @@
 
 ---
 ### :man_technologist: About Me :
-I am a Fron Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Colombia.
 
-:telescope: Looking for a job, I have knowledge of JavaScript, React Tailwind, HTML, CSS and Node.js.
-
-📚 I study to be a Full Stack Developer with JavaScript </a>
+📚 I study to be a data engineer </a>
 
 🌱 I’m currently learning Alura Latam and Platzi 
 
-💬 Ask me about ReacT and JavaScript
+💬 Ask me about Python
 
 👨‍💻 All of my projects are available at https://github.com/andresfelipe97
 
@@ -30,25 +27,6 @@ I am a Fron Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 ---
 
-### :hammer_and_wrench: Languages and Dev Tools :
-<div>
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
- 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="css" alt="css" width="40" height="40"/>&nbsp;
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
- 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Github" alt="Github" width="40" height="40"/>
-  
-  
-</div>
 
 
 </div>
