@@ -4,42 +4,95 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://aristi.dev">Andres Fandiño</a> 👋</h1>
 </div>
+<h3 align="center">ENGINEER MAINTENANCE | DATA ANALYST |FUTURO DATA ENGINEER</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-AndresDev-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andres-fandiño)
 
-## Sobre mi
+## 🛠️ My Skills
 
-- ⭐ ENGINEER MAINTENANCE⭐ 
-- 📲 DATA ANALYST
-- 🧑‍🏫 Futuro Data Engineer
-- 🎥 Gamer
-- ✏️ Deportista
+### 👉 Programming languages
 
-<br>
+<p align="left"> 
+  
+  &emsp;
+   <a href="https://www.python.org" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
+  </a>
 
-## Proyectos **
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">WEB-SCRAPING</h3>
-<div align="center">
-</a>
+### 👉 Frontend Development
+<p align="left"> 
+  &emsp; 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
+  </a>   
+  &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
+  </a> 
+   &emsp;
+  <a href="https://getbootstrap.com" target="_blank"> 
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
+  </a>
 </p>
-<p>PARA ESTE PROYECTO DE EXTRACCION DE DATOS E INFORMACION HE USADO REQUEST PARA MELI Y PARA OBTENER INFORMACION DE LA SECCION DE VIDEO JUEGOS DE UN SUPERMERCADO HE USADO SELENIUM DONDE AL FINAL CON LA INFORMACION OBTENIDA SE HA CREADO UN FORMATO CSV CON UNA INFORMACION ESPECIFICA (NOMBRE, PRECIO E IMAGEN) PARA REALIZAR EN UN FUTURO UN ANALISIS DE DATOS COMPLETO.</p>
-</div>
-                                                                                      
-</td>
 
-<td width="50%">
-               <br>
-<h3 align="center">Review-cursos-python-jupyter-highcharts</h3>
-<div align="center">                                       
-<br>
-</p>Proyecto para analisis de datos sobre la Review de cursos de udemy utilizando python-jupyter-highcharts(JavaScript) para su respectivo analisis de datos y la visualizacion de la informacion</p>
-</div>                                                             
-</table>                                                                                 
-</div>
-<br>
+### 👉 Databases & Cloud Hosting
+<p align="left">
+  &emsp;
+    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
+
+  
+### 👉Graphic Designing
+<p align="left">
+  &emsp;
+  	
+  
+   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
+    <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white"/>
+  </a> 
+  &emsp;
+  <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"> 
+    <img alt="Adobe Indesign" src="https://img.shields.io/badge/Adobe Indesign-%e749a0.svg?style=flat&logo=adobeindesign&logoColor=white"/> 
+  </a> 
+    &emsp;
+  <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> 
+    <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe Lightroom-%2300f.svg?style=flat&logo=adobelightroom&logoColor=white"/>
+  </a>
+   &emsp;
+  <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> 
+   <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe Premiere Pro-%2300f.svg?style=flat&logo=adobepremierepro&logoColor=white"/>
+  </a>
+    &emsp;
+  <a href="#">
+  	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
+  </a>
+ </p>
+
+ ### 👉 Software & Tools
+ 
+<p>
+  &emsp;
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
+  &emsp;
+    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+  &emsp;
+</p>
+
+<br/>
+
 
 
 ### ⚙️ &nbsp;GitHub Analytics
