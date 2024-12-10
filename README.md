@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://aristi.dev">Andres Fandiño</a> 👋</h1>
 </div>
