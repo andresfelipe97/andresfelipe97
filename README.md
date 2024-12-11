@@ -4,7 +4,14 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://aristi.dev">Andres Fandiño</a> 👋</h1>
 </div>
-<h3 align="center">ENGINEER MAINTENANCE | DATA ANALYST |FUTURO DATA ENGINEER</h3>
+<h3 align="center">DATA ANALYST | ENGINEER MAINTENANCE |FUTURO DATA ENGINEER</h3>
+
+
+<span>
+    <h4 align="center">"<em>Si lo puedes imaginar, lo puedes programar</em>"
+      <span align="center">Alejandro Taboada Sanchez</span>
+    </h4>
+<span>
 
 [![Linkedin Badge](https://img.shields.io/badge/-AndresDev-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andres-fandiño)
 
@@ -19,6 +26,12 @@
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
   </a>
 
+### 👉 Databases & Cloud Hosting
+<p align="left">
+  &emsp;
+    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
+
+  
 ### 👉 Frontend Development
 <p align="left"> 
   &emsp; 
@@ -35,10 +48,6 @@
   </a>
 </p>
 
-### 👉 Databases & Cloud Hosting
-<p align="left">
-  &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
 
  ### 👉 Software & Tools
  
@@ -75,4 +84,5 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=andresfelipe97&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andresfelipe97&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+  <a href="https://github.com/Deepshikhayadav"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andresfelipe97&theme=dracula&hide_border=true"  width="520" alt="deepshikhayadav"/></a>
 </p>
